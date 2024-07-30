@@ -23,5 +23,6 @@ Please refer to the LICENSE in the repo.
 
 ## Deployed App 
 https://text-editor-pwa-ssb6.onrender.com/
+<img width="1170" alt="jate_app" src="https://github.com/user-attachments/assets/12f1d0f7-904b-4f1b-8f29-380b3066dcaf">
 
 
